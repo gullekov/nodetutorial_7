@@ -1,0 +1,14 @@
+{
+    "name": "Muhammet",
+    "adress":{
+        "city": "Bayramaly ",
+        "koce": "Magdanly",
+        "jay": "A51"
+
+    },
+
+    "surname": "Batyrow",
+    "welayatlar": ["mary", "Balkan", "Lebap", "DZ"],
+    "sanlar": [1,2,3,4,5]
+
+}
